@@ -1,1 +1,6 @@
+mkdir mongodb-filter-app
+cd mongodb-filter-app
 
+npm init -y
+
+npm install mongodb
